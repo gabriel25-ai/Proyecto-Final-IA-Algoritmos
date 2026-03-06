@@ -1,21 +1,18 @@
-# 📊 Proyecto Final: Análisis de Datos con IA y Algoritmos
+# 🐍 Proyecto Final: Algoritmos con Python
 
-Este proyecto consiste en un pipeline de datos completo, desde el almacenamiento en una base de datos NoSQL hasta la visualización interactiva.
+Este repositorio contiene el desarrollo de mi proyecto final utilizando Python para la resolución de algoritmos y lógica de programación.
 
-## 🚀 Tecnologías Utilizadas
-* **Base de Datos:** MongoDB (10,000+ registros).
-* **Procesamiento:** Python con técnica MapReduce.
-* **Visualización:** Power BI.
+## 🛠️ Herramientas Utilizadas
+* **Lenguaje:** Python 3.x
+* **Editor de Código:** Visual Studio Code (VS Code)
+* **Control de Versiones:** Git y GitHub Desktop
 
-## 🛠️ Estructura del Proyecto
-1. **Extracción:** Carga de datos desde MongoDB.
-2. **Transformación:** Script de Python para limpiar y procesar los datos mediante MapReduce.
-3. **Carga:** Generación de un archivo CSV optimizado.
-4. **Análisis:** Dashboard en Power BI para la toma de decisiones.
+## 📂 Contenido del Repositorio
+1. **Scripts de Python:** Archivos `.py` con la lógica del proyecto.
+2. **Documentación:** Explicación del funcionamiento de los algoritmos.
 
-## 📋 Requisitos
-Para ejecutar este proyecto necesitas:
-* Python 3.x
-* Conexión a instancia de MongoDB.
-* Power BI Desktop.# Proyecto Final IA Algoritmos
+## ⚙️ Cómo ejecutarlo
+1. Clona este repositorio o descarga los archivos.
+2. Abre la carpeta en **Visual Studio Code**.
+3. Ejecuta los archivos con el comando `python nombre_del_archivo.py`.
 
