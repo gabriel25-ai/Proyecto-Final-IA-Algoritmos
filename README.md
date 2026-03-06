@@ -1,5 +1,8 @@
 # 🐍 Proyecto Final: Algoritmos con Python
 
+## ⚙️ Link del video
+https://www.canva.com/design/DAHDJKiGOLE/CF6s5cXfPkzcJmOBPtTizQ/edit?utm_content=DAHDJKiGOLE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 Este repositorio contiene el desarrollo de mi proyecto final utilizando Python para la resolución de algoritmos y lógica de programación.
 
 ## 🛠️ Herramientas Utilizadas
